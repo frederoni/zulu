@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DateToolsSwift",
+        "repositoryURL": "https://github.com/MatthewYork/DateTools",
+        "state": {
+          "branch": null,
+          "revision": "04daad229dbf56709789792c8dd609b20fd0e70e",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "Rainbow",
+        "repositoryURL": "https://github.com/onevcat/Rainbow",
+        "state": {
+          "branch": null,
+          "revision": "f69961599ad524251d677fbec9e4bac57385d6fc",
+          "version": "3.1.1"
+        }
+      },
+      {
+        "package": "SwiftCLI",
+        "repositoryURL": "https://github.com/jakeheis/SwiftCLI",
+        "state": {
+          "branch": null,
+          "revision": "090e458e3d7e0537289f2a5b47c6bf279d1c8925",
+          "version": "4.2.2"
+        }
+      },
+      {
+        "package": "Table",
+        "repositoryURL": "https://github.com/JanGorman/Table",
+        "state": {
+          "branch": null,
+          "revision": "78c04b58a006a48f5ccf2fdda563d021f2c54747",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
